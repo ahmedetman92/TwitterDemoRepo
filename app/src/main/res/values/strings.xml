@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tweets</string>
+
+    <string name="dialog_title">please select your action</string>
+    <string name="favourite">add to favourite</string>
+    <string name="author_profile">open author profile</string>
+</resources>
